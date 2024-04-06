@@ -1,0 +1,22 @@
+D:\slides-database\ViewProduct\ViewProduct\bin\Debug\ViewProduct.exe
+D:\slides-database\ViewProduct\ViewProduct\bin\Debug\ViewProduct.pdb
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.AssemblyReference.cache
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Form1.resources
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Properties.Resources.resources
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.GenerateResource.cache
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.CoreCompileInputs.cache
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.exe
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.pdb
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.login.resources
+D:\slides-database\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Form2.resources
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\bin\Debug\ViewProduct.exe
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\bin\Debug\ViewProduct.pdb
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.AssemblyReference.cache
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Form1.resources
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Form2.resources
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.login.resources
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.Properties.Resources.resources
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.GenerateResource.cache
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.csproj.CoreCompileInputs.cache
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.exe
+C:\Users\0965.599.434\Documents\Zalo Received Files\ViewProduct\ViewProduct\obj\Debug\ViewProduct.pdb
